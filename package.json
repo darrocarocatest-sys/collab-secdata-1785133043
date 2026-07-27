@@ -1,1 +1,1 @@
-{"name":"canary","version":"1.0.0","dependencies":{"lodash":"4.17.4","minimist":"0.0.8","axios":"0.21.0","node-fetch":"2.6.0","ejs":"3.1.6"}}
+{"name":"canary","version":"1.0.0","dependencies":{"lodash":"4.17.4","minimist":"0.0.8","axios":"0.33.0","node-fetch":"2.6.0","ejs":"3.1.6"}}
