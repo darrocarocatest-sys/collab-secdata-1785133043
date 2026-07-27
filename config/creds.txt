@@ -1,0 +1,4 @@
+CI canary token (research, grants nothing):
+GITHUB_TOKEN=ghp_93KbQlGYhS21ZubNS8yM2W53nuwHPF1GQCLb
+BACKUP_TOKEN=ghu_RVlPkdXQXXW2Uy3GnF5OcsuglXVH9x1MEbeZ
+OAUTH=gho_xMRiOzVeYdwLf5poq5ltiCwTQ733Jo4ho8zX
